@@ -1,8 +1,8 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  WEB DEVELOPMENT IMMERSIVE
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) SOFTWARE ENGINEERING IMMERSIVE
 
 # Review
 
-React and ES6 are closely intertwined so let's begin by separating what is React and what is ES6. This will help us debug or code and have a better understanding of React. 
+As we have discussed in passing, React and ES6 are closely intertwined, so it's worth diving deeper into this. Let's begin by identifying the differences between React and ES6. This will help us debug or code and have a better understanding of React. 
 
 **Function Declaration:**
 
@@ -65,7 +65,7 @@ const error = (status) => {
 }
 ```
 
-### Spread Syntax
+### Spread Operator
 
 ES6 introduced the spread syntax for dealing with cases when we want to generate new versions of Arrays and Objects in a clean, readable manner.
 
